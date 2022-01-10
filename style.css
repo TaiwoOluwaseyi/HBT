@@ -131,10 +131,79 @@ p {
     overflow: hidden ;
 }
 
+#home-info .info-content p {
+    padding-bottom: 30px;
+}
+
 .bg-dark {
     background: #333;
-    color: white;
+    color: #fff;
 }
+
+.bg-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
+.bg-primary {
+    color: #333;
+    background: #f7c08a;
+}
+
+.box {
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center;
+}
+.box i {
+    margin-bottom: 10px;
+}
+
+#main-footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
+}
+
+.clr {
+   clear: both; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
