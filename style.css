@@ -218,6 +218,34 @@ p {
     margin-right: 20px;
     border-radius:50% ;
 }
+
+#contact-form .form-group {
+    margin-bottom: 20px;
+}
+
+#contact-form label {
+    display:block ;
+    margin-bottom: 5px;
+}
+
+#contact-form input,
+ #contact-form textarea {
+     width: 100%;
+     padding: 10px;
+     border: 1px #ddd solid;
+}
+
+#contact-form textarea {
+height: 200px;
+}
+
+#contact-form input:focus,
+ #contact-form textarea {
+ outline: none;
+ border: #f7c08a;
+ }
+
+
 /* padding */
 .py-1 { padding: 10px 0;}
 .py-2 { padding: 20px 0;}
